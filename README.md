@@ -32,4 +32,4 @@ A dynamic Form Builder application built with Laravel and Vue.js, enabling admin
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/HamshayiniThavarajah/form-builder.git
+ [  git clone https://github.com/HamshayiniThavarajah/form-builder.git](https://github.com/HamshayiniThavarajah/form_Builder.git)
